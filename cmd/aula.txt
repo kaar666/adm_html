@@ -1,2 +1,5 @@
 "oi" 
 git credential.username "kaar666"
+
+git config --global user.name
+git config --global user.email
